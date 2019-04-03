@@ -13,10 +13,10 @@ default: &default
   adapter: mysql2
   #encoding: utf8
   port: 3306
-  username: gbsasia
-  password: gbsasia77
-  host: 180.250.248.61
-  database: seo
+  username: xxxxxxxx
+  password: xxxxxxxx
+  host: xxxxxxxxxx
+  database: xxxxxx
 
 
 development:
